@@ -24,12 +24,18 @@
 /app/config/parameters.ini
 
 # Managed by Composer
-/app/bootstrap.php.cache
-/var/bootstrap.php.cache
-/bin/*
-!bin/console
-!bin/symfony_requirements
-/vendor/
+server/app/bootstrap.php.cache
+server/var/bootstrap.php.cache
+server/bin/*
+!server/bin/console
+!server/bin/symfony_requirements
+server/.env.local
+server/.env.local.php
+server/.env.*.local
+server/config/secrets/prod/prod.decrypt.private.php
+server/public/bundles/
+server/var/
+server/vendor/
 
 # Assets and user uploads
 /web/bundles/
