@@ -3,21 +3,21 @@
     {
       "id": 1,
       "type": "Groceries",
-      "description": "",
+      "description": "milk",
       "date": 1629134400281,
       "sum": 100
     },
     {
       "id": 2,
       "type": "Groceries",
-      "description": "",
+      "description": "dinner",
       "date": 1629134400281,
       "sum": 100
     },
     {
       "id": 3,
       "type": "Groceries",
-      "description": "",
+      "description": "laundry",
       "date": 1629134400281,
       "sum": 100
     }
